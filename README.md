@@ -1,2 +1,2 @@
 # Segurity_Pass
-gestor de contraseñas 
+App de android studio, el cual es un gestor de contraseña. que podre ingresar con datos biometricos link comentarista app seguridad: https://drive.google.com/file/d/19Nlw8pboSzC-XISIdK6v9kzxsUVLBaar/view?usp=sharing Google Docs App-SecurityPassword.drawio Link editor app seguridad: https://drive.google.com/file/d/19Nlw8pboSzC-XISIdK6v9kzxsUVLBaar/view?usp=sharing Google Docs App-SecurityPassword.drawio Link de visualizador del proyecto: https://drive.google.com/file/d/19Nlw8pboSzC-XISIdK6v9kzxsUVLBaar/view?usp=sharing Google Docs App-SecurityPassword.drawio.
